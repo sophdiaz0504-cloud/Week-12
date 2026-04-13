@@ -1,1 +1,2 @@
-
+Looking at the dev tools, I feel lost, I don't have a good example to look at for finding the bugs. Looking at the javascript chapters, I felt lost looking at it for the bugs too. Like i can't comapre and contrast what's right and what's wrong. I really don't know the bugs in the javascipt in this.
+I just know the javascript let's you know where the bugs are, the only thing I debugged is the CSS. 
